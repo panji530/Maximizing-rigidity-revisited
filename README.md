@@ -6,11 +6,16 @@ Pan Ji, Hongdong Li, Yuchao Dai, and Ian Reid. "Maximizing rigidity" revisited: 
 The code relies on CVX to solve the SDP problem. To test the code, please install cvx from http://cvxr.com/cvx/download/, and add its path to your Matlab. 
 
 Non-rigid surfaces: run the following files
+
 test_Hulk.m
+
 test_Tshirt.m
+
 test_KINECT_Paper.m
 
 Rigid shapes: run the following files
+
 test_Rigid_ModelHouse.m
+
 test_Rigid_Sythetic.m
 
