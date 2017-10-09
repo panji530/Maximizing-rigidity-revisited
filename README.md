@@ -21,5 +21,7 @@ test_Rigid_Sythetic.m
 
 Articulated motion: run the following files
 
-test_synthetic_articulation.m
+test_Articulation_Synthetic.m
+
+test_Articulation_Dance.m
 
