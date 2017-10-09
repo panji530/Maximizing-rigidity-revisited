@@ -19,3 +19,7 @@ test_Rigid_ModelHouse.m
 
 test_Rigid_Sythetic.m
 
+Articulated motion: run the following files
+
+test_synthetic_articulation.m
+
