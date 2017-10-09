@@ -1,9 +1,10 @@
+function C = getAngleCos(m, NgIdx)
 % compute the negative cosine of angles between legs
 % Inputs: m -- 2D image coordinates
 %         NgIdx -- index of neighbors of each point
 %         KK -- intrinsic camera matrix
 % Output: C -- matrix containing the consine of angles
-function C = getAngleCos(m, NgIdx)
+% Author: Pan Ji, University of Adelaide
 F = length(m); % number of frames
 N = length(m(1).m); % number of points
 %Sn = size(NgIdx,2);
