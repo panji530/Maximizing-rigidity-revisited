@@ -1,4 +1,4 @@
-# This work was done while the first author was in the University of Adelaide. Copyright reserved.
+% This work was done while the first author was in the University of Adelaide. Copyright reserved.
 function C = getAngleCos(m, NgIdx)
 % compute the negative cosine of angles between legs
 % Inputs: m -- 2D image coordinates
