@@ -25,3 +25,7 @@ test_Articulation_Synthetic.m
 
 test_Articulation_Dance.m
 
+License
+
+For academic usage, the code is released under the permissive BSD license. For any commercial purpose, please contact the authors.
+
