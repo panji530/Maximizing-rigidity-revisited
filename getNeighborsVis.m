@@ -1,3 +1,4 @@
+# This work was done while the first author was in the University of Adelaide. Copyright reserved.
 function [ IDX,dist_sort ] = getNeighborsVis( m, Ng, visb, opt )
 % Author: Ajad Chhatkuli et al.
 % Modified by Pan Ji
