@@ -1,6 +1,7 @@
 function [z, lgs, edgs, maxEdgs] = OurNRSfM(IDX, C, m, lambda1, lambda2)
 % Author: Pan Ji, University of Adelaide
 %         pan.ji@adelaide.edu.au
+%         All rights reserved
 % Input:  IDX -- K-NNG neighboring point index
 %         C   -- matrix of cosine of viewing angles
 %         m   -- normalized image measurement
